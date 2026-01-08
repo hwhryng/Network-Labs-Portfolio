@@ -14,3 +14,5 @@
 
 **Files in this folder:**
 - [single-area-ospf.pdf](./Lab01_Single-Area-OSPF.pdf) – full lab with table of contents, configurations, diagrams, and troubleshooting. 
+
+Lab04-Single-Area-OSPF/README.md
