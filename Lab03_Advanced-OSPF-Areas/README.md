@@ -1,4 +1,4 @@
-# Lab 03: Advanced OSPF Areas (Stub, Totally Stubby, NSSA)
+# Lab 03: Advanced OSPF Areas (Stubby, Totally Stubby, NSSA)
 
 **Purpose:**  
 Set up OSPF stub areas, totally stubby areas, and NSSAs, and connect multi-area OSPF to an EIGRP area to learn about larger network topologies.
