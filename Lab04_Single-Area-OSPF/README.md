@@ -13,4 +13,4 @@
 - Documented process and troubleshooting steps
 
 **Files in this folder:**
-- [single-area-ospf.pdf](./Lab04_Single-Area-OSPF.pdf) – full lab with table of contents, configurations, diagrams, and troubleshooting. 
+- `Single-Area-OSPF.pdf` – full lab with table of contents, configurations, diagrams, and troubleshooting. 
