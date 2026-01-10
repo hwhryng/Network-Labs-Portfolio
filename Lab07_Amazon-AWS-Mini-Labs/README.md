@@ -3,15 +3,18 @@
 **Purpose:**  
 Practice cloud networking concepts by designing and deploying AWS VPC architectures, private/public subnets, route tables, security groups, and hybrid network environments.
 
-**Background:**  
-Gained hands-on experience with AWS tools and cloud networking, complementing on-premise lab knowledge.
+## Key Skills & Tools
+- AWS VPC creation (public and private subnets, route tables, Internet Gateways)  
+- EC2 instance deployment and configuration (security groups, tagging, instance types)  
+- S3 static website hosting and bucket policies  
+- CloudFront distribution setup for content delivery  
+- Custom VPC configurations and route table management  
 
-**Key Outcomes:**  
-- Completed **6 mini labs** simulating enterprise-style cloud networking scenarios  
-- Launched and configured EC2 instances in VPCs with proper subnets and access controls  
-- Designed hybrid network architectures combining cloud and on-premises concepts  
-- Applied security groups, routing, and connectivity best practices  
-- Strengthened documentation and problem-solving skills in cloud networking
+## Key Results
+- Designed and deployed multiple VPCs with public/private subnets  
+- Launched and managed EC2 instances, including IP assignment and security group configuration  
+- Hosted static websites on S3 and delivered via CloudFront  
+- Validated connectivity, routing, and access across AWS networking environments
 
 **Files in this folder:**  
 - `AWS-Lab-1-Make-a-VPC.pdf`
